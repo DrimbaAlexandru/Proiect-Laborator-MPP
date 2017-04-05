@@ -1,0 +1,5 @@
+rootProject.name = 'Main_Project'
+include 'Common_Resources'
+include 'Server_Side'
+include 'Client_Side'
+

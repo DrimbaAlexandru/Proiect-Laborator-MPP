@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Client_Side/Client_Side.iml" filepath="$PROJECT_DIR$/.idea/modules/Client_Side/Client_Side.iml" group="Client_Side" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Client_Side/Client_Side_main.iml" filepath="$PROJECT_DIR$/.idea/modules/Client_Side/Client_Side_main.iml" group="Client_Side" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Client_Side/Client_Side_test.iml" filepath="$PROJECT_DIR$/.idea/modules/Client_Side/Client_Side_test.iml" group="Client_Side" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Common_Resources/Common_Resources.iml" filepath="$PROJECT_DIR$/.idea/modules/Common_Resources/Common_Resources.iml" group="Common_Resources" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Common_Resources/Common_Resources_main.iml" filepath="$PROJECT_DIR$/.idea/modules/Common_Resources/Common_Resources_main.iml" group="Common_Resources" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Common_Resources/Common_Resources_test.iml" filepath="$PROJECT_DIR$/.idea/modules/Common_Resources/Common_Resources_test.iml" group="Common_Resources" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Main_Project.iml" filepath="$PROJECT_DIR$/.idea/modules/Main_Project.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Main_Project_main.iml" filepath="$PROJECT_DIR$/.idea/modules/Main_Project_main.iml" group="Main_Project" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Main_Project_test.iml" filepath="$PROJECT_DIR$/.idea/modules/Main_Project_test.iml" group="Main_Project" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Server_Side/Server_Side.iml" filepath="$PROJECT_DIR$/.idea/modules/Server_Side/Server_Side.iml" group="Server_Side" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Server_Side/Server_Side_main.iml" filepath="$PROJECT_DIR$/.idea/modules/Server_Side/Server_Side_main.iml" group="Server_Side" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Server_Side/Server_Side_test.iml" filepath="$PROJECT_DIR$/.idea/modules/Server_Side/Server_Side_test.iml" group="Server_Side" />
+    </modules>
+  </component>
+</project>
